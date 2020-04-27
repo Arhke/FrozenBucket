@@ -1,0 +1,6 @@
+name: FrozenBuckets
+main: net.waterraid.GenBucket.Main
+version: 1.0
+commands:
+    genbucket:
+        usage: /<command>

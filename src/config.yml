@@ -1,0 +1,43 @@
+max: 12
+a:
+  name: "aposidufaposiduf"
+  slot: 10
+  type: "horizontal"
+  block: STONE
+  cost: 10
+  lore: "&aabc"
+b:
+  name: "aposidufaposiduf"
+  slot: 11
+  type: "horizontal"
+  block: SAND
+  cost: 10
+  lore: "abc"
+c:
+  name: "aposidufaposiduf"
+  slot: 12
+  type: "horizontal"
+  block: OBSIDIAN
+  cost: 10
+  lore: "abc"
+D:
+  name: "aposidufaposiduf"
+  slot: 14
+  type: "vertical"
+  block: STONE
+  cost: 10
+  lore: "abc"
+E:
+  name: "aposidufaposiduf"
+  slot: 15
+  type: "vertical"
+  block: SAND
+  cost: 10
+  lore: "abc"
+F:
+  name: "aposidufaposiduf"
+  slot: 16
+  type: "vertical"
+  block: OBSIDIAN
+  cost: 10
+  lore: "abc"
